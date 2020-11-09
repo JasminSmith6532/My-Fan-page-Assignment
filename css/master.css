@@ -1,0 +1,65 @@
+html {
+  scroll-behavior: smooth;
+}
+
+ul{
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+}
+
+li{
+  display:inline;
+  margin: 0 100px;
+}
+
+h1{
+  text-align: right;
+  margin:100%
+  padding:0;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  font-size: 120px;
+  text-shadow: 4px 4px #14350A;
+}
+
+.containment{
+  width: 80%;
+  margin:0 auto;
+}
+
+header {
+background-color: #749675;
+
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 30px;
+}
+
+nav a:hover {
+  color: #F1E583;
+}
+
+body {
+  background-image: url(../images/Mediumpupp3.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.index.html {
+  height:700px;
+  display: inline-block;
+  width:100%
+}
+
+.Why {
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  text-align: right;
+  font-size: 30px;
+}
